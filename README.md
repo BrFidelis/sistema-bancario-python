@@ -12,5 +12,5 @@ Um sistema bancário simples desenvolvido em Python com operações básicas seg
 - **Extrato**: Histórico completo de transações
 - **Interface**: Menu interativo com tratamento de erros
 
-Tecnologias Utilizadas
-Python
+## Tecnologias Utilizadas
+- Python
